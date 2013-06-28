@@ -132,13 +132,13 @@ source "drivers/staging/ramster/Kconfig"
 
 source "drivers/staging/ozwpan/Kconfig"
 
-<<<<<<< HEAD
-=======
 source "drivers/staging/media/Kconfig"
 
 source "drivers/staging/cpupower/Kconfig" 
 
+<<<<<<< HEAD
 source "drivers/staging/prima/Kconfig"
 
->>>>>>> 266f89f... Add pronto wlan driver
+=======
+>>>>>>> d06ee5f... ARM CPU Topology and cpu_power driver
 endif # STAGING
