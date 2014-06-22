@@ -12,8 +12,6 @@ export CROSS_COMPILE=arm-eabi-
 
 make m8_defconfig
 
-make clean
-
 make -j5
 
 
